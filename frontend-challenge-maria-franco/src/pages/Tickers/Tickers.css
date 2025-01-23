@@ -1,0 +1,22 @@
+.card-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card-content-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.card-content-header #title{
+  color: rgb(47, 0, 255);
+}
+
+.card-content-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
